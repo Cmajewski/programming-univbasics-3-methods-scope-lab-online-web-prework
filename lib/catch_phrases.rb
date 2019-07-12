@@ -1,5 +1,5 @@
 def mario
-  
+
   phrase="It's-a me, Mario!"
   puts phrase
 end
@@ -19,5 +19,3 @@ def any_phrase(phrase)
   puts "Do a Barrel Roll!"
 end
 phrase(Bowzer)
-  
-  
